@@ -1,0 +1,50 @@
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\appsettings.Development.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\appsettings.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.staticwebassets.runtime.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.exe
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.deps.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.runtimeconfig.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.dll
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.pdb
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.csproj.AssemblyReference.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.AssemblyInfoInputs.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.AssemblyInfo.cs
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.MvcApplicationPartsAssemblyInfo.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.RazorAssemblyInfo.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.RazorAssemblyInfo.cs
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\staticwebassets.build.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\staticwebassets.development.json
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\scopedcss\bundle\MvcLayout.styles.css
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\scopedcss\projectbundle\MvcLayout.bundle.scp.css
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.dll
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\refint\MvcLayout.dll
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.pdb
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.genruntimeconfig.cache
+D:\Công Nghệ Net\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\ref\MvcLayout.dll
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\appsettings.Development.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\appsettings.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.staticwebassets.runtime.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.exe
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.deps.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.runtimeconfig.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.dll
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\bin\Debug\net6.0\MvcLayout.pdb
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.csproj.AssemblyReference.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.AssemblyInfoInputs.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.AssemblyInfo.cs
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.csproj.CoreCompileInputs.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.MvcApplicationPartsAssemblyInfo.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.RazorAssemblyInfo.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.RazorAssemblyInfo.cs
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\staticwebassets.build.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\staticwebassets.development.json
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\scopedcss\bundle\MvcLayout.styles.css
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.dll
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\refint\MvcLayout.dll
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.pdb
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\MvcLayout.genruntimeconfig.cache
+D:\CongNgheNet\sample\MvcLayout\MvcLayout\obj\Debug\net6.0\ref\MvcLayout.dll

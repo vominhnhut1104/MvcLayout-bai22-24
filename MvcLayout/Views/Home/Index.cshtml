@@ -1,0 +1,22 @@
+﻿@using MvcLayout.Models
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    var product = ViewData["Product"] as ProductModel;
+}
+
+@section header{
+
+    <link href="~/css/index.css" rel="stylesheet" />
+}
+@section footer{
+    <script src="~/js/index.js"></script>
+}
+
+<h1>Hello </h1>
+<h1>@ViewBag.Greeting</h1>
+//@product.Name // nếu sử dụng viewdata thì dùng lệnh này kèm hàm var product phía trên
+@ViewBag.Product?.Name <br/>
+@ViewBag.Product?.Price<br/> // nếu sử dụng viewbag thì ko cần ép kiểu như lệnh var phía trên có thể bỏ dc
+
